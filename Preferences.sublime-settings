@@ -1,0 +1,37 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "wide",
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": false,
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"directwrite",
+		"subpixel_antialias"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Tag",
+		"JavaScript & NodeJS Snippets",
+		"Vintage",
+		"HTML5",
+		"BracketHighlighter",
+		"SideBarEnhancements",
+		"Trimmer"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"preview_on_click": false,
+	"remember_open_files": false,
+	"tab-size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"word_wrap": true
+}
