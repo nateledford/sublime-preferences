@@ -1,45 +1,21 @@
 {
-	//Make the folders in the sidebar easier to see
 	"bold_folder_labels": true,
-
-	//Wider caret arrows
 	"caret_style": "wide",
 	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
-
-	//Prevent Sublime from automatically detecting the default indentation
-	//of a file
 	"detect_indentation": false,
-
-	//I'm not concerned about slow plugins
 	"detect_slow_plugins": false,
 	"draw_white_space": "selection",
-
-	//Add a newline to the end of a file if it does not exist
 	"ensure_newline_at_eof_on_save": true,
-
-	//Fold buttons should be easy to see
 	"fade_fold_buttons": false,
-
-	//Best programming font, period
 	"font_face": "Source Code Pro",
-
-	//Make font easier to view on Windows
 	"font_options":
 	[
 		"directwrite",
 		"subpixel_antialias"
 	],
-
-	//Smaller font because I'm young
 	"font_size": 9,
-
-	//Highlight the current line
 	"highlight_line": true,
-
-	//Highlight which tabs contain modified files
 	"highlight_modified_tabs": true,
-
-	//Packages to ignore
 	"ignored_packages":
 	[
 		"Tag",
@@ -50,22 +26,13 @@
 		"SideBarEnhancements",
 		"Trimmer"
 	],
-	//Add padding to the top and bottom of lines
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-
-	//Files can only be opened by double-click
 	"preview_on_click": false,
 	"remember_open_files": false,
-
-	//Set a default tab-size
-	"tab-size": 4,
+	"tab-size": 2,
 	"theme": "Spacegray.sublime-theme",
-
-	//Keep tabs
 	"translate_tabs_to_spaces": false,
-
-	//Remove any unneeded whitespace
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
